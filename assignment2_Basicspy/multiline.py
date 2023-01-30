@@ -1,0 +1,9 @@
+'''
+   Multi-line
+        commants
+ '''
+a='Ram'
+b=123
+c=34.54
+d='Sita'
+print(a,b,c,d,sep='\n')
